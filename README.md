@@ -14,8 +14,6 @@ Um código escrito em javascript que ajuda você a manter até 100 contas 24 hor
 
 **NÃO DÊ SEU TOKEN A OUTROS!**
 
-</br>
-
 ## Contate-me
 
 ﹒[Discord](https://discord.com/users/472756345909805059)
