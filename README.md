@@ -16,6 +16,12 @@ Um código escrito em javascript que ajuda você a manter até 100 contas 24 hor
 
 </br>
 
+## Contate-me
+
+﹒[Discord](https://discord.com/users/472756345909805059)
+﹒[Servidor do discord](https://discord.gg/giflandia)
+﹒[Steam](https://steamcommunity.com/id/Tzrico/)
+
 > ⭐ Sinta-se à vontade para marcar o repositório como estrela se isso o ajudou! ;)
 
 ----
